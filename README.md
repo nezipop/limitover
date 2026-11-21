@@ -3,13 +3,13 @@
 シャープ **MZ-2000 / MZ-2200** 用のオリジナル 3D カーレースゲームです。Z80 のアセンブラで書いています。
 制限時間内にゴールを目指して、全 8 ステージを走りきってください。
 
-![タイトル画面](screenshots/title.png)
+![タイトル画面](title.png)
 
 | ステージ 1・2(山) | ステージ 3・4(夕日) |
 |---|---|
-| ![山](screenshots/stage1_mountain.png) | ![夕日](screenshots/stage3_sunset.png) |
+| ![山](stage1_mountain.png) | ![夕日](stage3_sunset.png) |
 | **ステージ 5・6(夜の街)** | **ステージ 7・8(星空)** |
-| ![夜の街](screenshots/stage5_city.png) | ![星空](screenshots/stage7_stars.png) |
+| ![夜の街](stage5_city.png) | ![星空](stage7_stars.png) |
 
 ## 動作環境
 
@@ -79,7 +79,7 @@
 
 HI スコアを更新すると NEW RECORD! と表示されます(HI スコアは電源を切ると消えます)。
 
-![エンディング](screenshots/ending.png)
+![エンディング](ending.png)
 
 ## 特徴
 
